@@ -1,0 +1,15 @@
+# Raw and intermediate data may contain raw user identifiers -- never commit.
+data/raw/
+data/interim/
+data/processed/ground_truth*
+data/processed/.gt_salt
+
+# Trained models / logs
+outputs/models/
+outputs/logs/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/

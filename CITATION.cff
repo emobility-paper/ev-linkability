@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Behavioral Linkability of EV Charging Sessions - Analysis Code"
+authors:
+  - name: "Anonymized for review"
+version: 1.0.0
+license: MIT
+date-released: "2026-08-09"
+keywords:
+  - electric vehicle charging
+  - ISO 15118
+  - privacy
+  - linkability
+  - re-identification
+preferred-citation:
+  type: article
+  title: "Behavioral Linkability of Electric Vehicle Charging Sessions in ISO 15118-Enabled Ecosystems: A Privacy-Utility Evaluation"
+  authors:
+    - name: "Anonymized for review"
+  notes: "Under review. Update this entry with journal, year, and DOI upon acceptance."

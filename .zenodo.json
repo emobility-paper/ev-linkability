@@ -1,0 +1,21 @@
+{
+  "title": "Behavioral Linkability of EV Charging Sessions — Analysis Code",
+  "upload_type": "software",
+  "description": "Complete leakage-controlled evaluation pipeline for the paper 'Behavioral Linkability of Electric Vehicle Charging Sessions in ISO 15118-Enabled Ecosystems: A Privacy–Utility Evaluation': data acquisition (ACN-Data via acnportal), preprocessing, per-user chronological splits, hard-negative pair construction, pairwise verification and candidate-set retrieval attacks, feature ablation, metadata-generalization profiles with operational-utility metrics, figure generation, and an automated leakage test suite. No charging records or user identifiers are included; the pipeline reproduces the study from a fresh download with fixed seed 20260712.",
+  "creators": [
+    {
+      "name": "Anonymized for review"
+    }
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "electric vehicle charging",
+    "ISO 15118",
+    "privacy",
+    "linkability",
+    "metadata",
+    "re-identification",
+    "reproducibility"
+  ]
+}
